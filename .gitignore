@@ -1,0 +1,49 @@
+*.swp
+*.pyc
+*.py~
+.DS_Store
+.cache
+.pytest_cache/
+
+# Setuptools distribution and build folders.
+/dist/
+/build
+
+# Virtualenv
+/env
+
+# Python egg metadata, regenerated from source files by setuptools.
+/*.egg-info
+
+*.sublime-project
+*.sublime-workspace
+
+logs/
+
+.ipynb_checkpoints
+ghostdriver.log
+
+#Pycharm IDE
+
+# User-specific stuff
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+
+# Generated files
+.idea/**/contentModel.xml
+
+# Sensitive or high-churn files
+.idea/**/dataSources/
+.idea/**/dataSources.ids
+.idea/**/dataSources.local.xml
+.idea/**/sqlDataSources.xml
+.idea/**/dynamic.xml
+.idea/**/uiDesigner.xml
+.idea/**/dbnavigator.xml
+
+# Gradle
+.idea/**/gradle.xml
+.idea/**/libraries
