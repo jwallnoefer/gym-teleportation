@@ -1,3 +1,5 @@
+**This is a standalone package for the Teleportation environment that is part of [SciGym](https://github.com/hendrikpn/scigym). In general I would recommend just using it via scigym instead.**
+
 ### Teleportation
 
 The task in this environment is for the agent to find a protocol that uses an already distributed entangled state to teleport an arbitrary quantum state, i.e. the agent should learn to reconstruct the well-known quantum teleportation protocol when provided with a universal gate set and quantum measurements.
